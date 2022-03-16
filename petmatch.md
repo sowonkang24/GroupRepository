@@ -23,3 +23,26 @@ Sowon's message to her paw-fect companion:
 
 ***Do I have any other pets, or have I had any other pets?***
 >*"I have had a pet goldfish when I was young."*
+
+# **Vicky Zhang's Pet owner Profile**
+
+***What kind of pet owner am I?***
+Vicky is a cool pet owner, who loves to play with her pets : )). She has had experience and is currently a cat owner. : )
+
+Sowon's message to her purr-fect companion:
+> *"Gimme cat thx : ) ) )"*
+
+***What kind of Pet am I looking for?***
+
+| Preference | Response |
+| --- | --- |
+| Type | Cat |
+| Age | Any |
+| Breed | Any |
+| Size | Any |
+
+***How many pets am I looking for?***
+> *"I'd like 100000 cats."*
+
+***Do I have any other pets, or have I had any other pets?***
+> *"I currently have a cat."*
